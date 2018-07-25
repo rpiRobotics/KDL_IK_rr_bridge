@@ -1,5 +1,5 @@
 # KDL_IK_rr_bridge
-A MATLAB RR bridge for KDL's IK solver
+A MATLAB RR bridge for KDL's Inverse Kinematics Solver
 
 Run KDL_IK_RR.m to host the service.
 Run testIK_RR.m in another MATLAB instance to verify the connection.
